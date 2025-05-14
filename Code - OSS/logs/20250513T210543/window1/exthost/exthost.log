@@ -1,0 +1,15 @@
+2025-05-13 21:05:46.157 [info] Extension host with pid 8829 started
+2025-05-13 21:05:46.157 [info] Skipping acquiring lock for /home/stl/.config/Code - OSS/User/workspaceStorage/00edbe7b35023f9acfc4f710a726fa7f.
+2025-05-13 21:05:46.184 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-13 21:05:46.194 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-13 21:05:46.285 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-13 21:05:46.356 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 21:05:46.372 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 21:05:46.465 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 21:05:46.557 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-13 21:05:46.637 [info] Eager extensions activated
+2025-05-13 21:05:46.692 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-13 21:05:46.696 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-13 21:05:46.724 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-13 21:08:29.620 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-13 21:08:29.633 [info] Extension host with pid 8829 exiting with code 0

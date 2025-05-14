@@ -1,0 +1,15 @@
+autologin.username="dylanofthestrouds"
+autologin.saved_credentials="{\"dylanofthestrouds\":[\"dylanofthestrouds\",\"AXQNPa7hopdkL0GokFH9zU/sswGIUY0SgxVnT26hDiD6tptnhNEk/iIuE7DxSBPGF0J1jOtKSv6lq+nKTphPjh84qcSzipvJoitpUXpNFgD/JSJD7cG4eMQbjs28znoRH8fXpDy94f9plEeKOJpjVpXEN0/TwcObM3JgaUiE/VxBdIjU/617NTnvdLXlfilwSgLa6dQBJFu8dqPuF1OQKnHrCWxts3Xo7wAkh+HvavtKUeSYexqdET3EqRsVI/yJncAkEoCyDcGWMPdLBZ6cOg==\"]}"
+autologin.canonical_username="dylanofthestrouds"
+app.window.state.saved=true
+app.window.position.width=946
+app.rollback-to-sc=true
+autologin.blob="AXQNPa7hopdkL0GokFH9zU/sswGIUY0SgxVnT26hDiD6tptnhNEk/iIuE7DxSBPGF0J1jOtKSv6lq+nKTphPjh84qcSzipvJoitpUXpNFgD/JSJD7cG4eMQbjs28znoRH8fXpDy94f9plEeKOJpjVpXEN0/TwcObM3JgaUiE/VxBdIjU/617NTnvdLXlfilwSgLa6dQBJFu8dqPuF1OQKnHrCWxts3Xo7wAkh+HvavtKUeSYexqdET3EqRsVI/yJncAkEoCyDcGWMPdLBZ6cOg=="
+es.send-on-startup=true
+core.clock_delta=0
+app.window.position.saved=true
+app.window.position.height=507
+app.window.position.y=564
+storage.last-location="/home/stl/.cache/spotify/Storage"
+app.window.position.x=5
+app.last-launched-version="1.2.60.564.gcc6305cb"

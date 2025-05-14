@@ -1,0 +1,24 @@
+5/11/2025, 10:59:46 PM CDT 0: 
+
+----------------------------------------------
+5/11/2025, 10:59:46 PM CDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/stl/.config/discord/0.0.94/modules
+5/11/2025, 10:59:46 PM CDT 2: ✅ webContents.created web1 ""
+5/11/2025, 10:59:46 PM CDT 3: ✅ window.created win1 "discord"
+5/11/2025, 10:59:46 PM CDT 4: ✅ webContents.did-finish-load web1
+5/11/2025, 10:59:53 PM CDT 5: ✅ webContents.created web2 ""
+5/11/2025, 10:59:53 PM CDT 6: ✅ window.created win2 "Discord"
+5/11/2025, 10:59:58 PM CDT 7: ✅ webContents.did-finish-load web2
+5/11/2025, 10:59:58 PM CDT 8: window.close win1
+5/11/2025, 10:59:58 PM CDT 9: webContents.destroyed web1
+5/11/2025, 10:59:58 PM CDT 10: window.closed win1
+5/11/2025, 11:01:46 PM CDT 11: window.close win2
+5/11/2025, 11:01:49 PM CDT 12: window.close win2
+5/11/2025, 11:28:54 PM CDT 13: before-quit
+5/13/2025, 10:11:18 AM CDT 0: 
+
+----------------------------------------------
+5/13/2025, 10:11:18 AM CDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.94"}, modulepath: /home/stl/.config/discord/0.0.94/modules
+5/13/2025, 10:11:18 AM CDT 2: ✅ webContents.created web1 ""
+5/13/2025, 10:11:18 AM CDT 3: ✅ window.created win1 "discord"
+5/13/2025, 10:11:18 AM CDT 4: ✅ webContents.did-finish-load web1
+5/13/2025, 10:11:56 AM CDT 5: window.close win1

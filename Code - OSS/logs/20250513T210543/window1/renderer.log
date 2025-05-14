@@ -1,0 +1,5 @@
+2025-05-13 21:05:44.967 [info] Started local extension host with pid 8829.
+2025-05-13 21:05:45.023 [info] ComputeTargetPlatform: linux-x64
+2025-05-13 21:05:45.945 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-13 21:05:47.690 [info] [perf] Render performance baseline is 31ms
+2025-05-13 21:07:37.060 [error] [text file model] handleSaveError(13) - exit - resulted in a save error: Error: Unable to write file '/usr/share/sddm/themes/catppuccin-mocha/Main.qml' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/sddm/themes/catppuccin-mocha/Main.qml') file:///usr/share/sddm/themes/catppuccin-mocha/Main.qml

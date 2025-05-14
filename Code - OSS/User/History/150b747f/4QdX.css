@@ -1,0 +1,74 @@
+/* Container to hold buttons in a 2x3 grid */
+button-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 buttons per row */
+    grid-gap: 10px; /* space between buttons */
+    max-width: 600px; /* max width for the container */
+    margin: 0 auto; /* center the container */
+    padding: 20px;
+}
+
+/* General button style */
+button {
+    width: 100px; /* set width of each button */
+    height: 100px; /* set height of each button */
+    background-size: cover; /* make sure images fit inside button */
+    background-position: center; /* center the image */
+    border-radius: 8px; /* rounded corners */
+    cursor: pointer;
+    transition: background-image 0.3s ease;
+}
+
+/* Lock Button */
+#lock {
+    background-image: url("~/.config/assets/wlogout/assets/lock.png");
+}
+
+#lock:hover {
+    background-image: url("~/.config/assets/wlogout/assets/lock-hover.png");
+}
+
+/* Logout Button */
+#logout {
+    background-image: url("~/.config/assets/wlogout/assets/logout.png");
+}
+
+#logout:hover {
+    background-image: url("~/.config/assets/wlogout/assets/logout-hover.png");
+}
+
+/* Shutdown Button */
+#shutdown {
+    background-image: url("~/.config/assets/wlogout/assets/power.png");
+}
+
+#shutdown:hover {
+    background-image: url("~/.config/assets/wlogout/assets/power-hover.png");
+}
+
+/* Reboot Button */
+#reboot {
+    background-image: url("~/.config/assets/wlogout/assets/restart.png");
+}
+
+#reboot:hover {
+    background-image: url("~/.config/assets/wlogout/assets/restart-hover.png");
+}
+
+/* Exit Button */
+#exit {
+    background-image: url("~/.config/assets/wlogout/assets/restart.png");
+}
+
+#exit:hover {
+    background-image: url("~/.config/assets/wlogout/assets/restart-hover.png");
+}
+
+/* Suspend Button */
+#suspend {
+    background-image: url("~/.config/assets/wlogout/assets/sleep.png");
+}
+
+#suspend:hover {
+    background-image: url("~/.config/assets/wlogout/assets/sleep-hover.png");
+}

@@ -1,0 +1,5 @@
+2025/05/13-12:38:33.895 1c49 Reusing MANIFEST /home/stl/.config/Morgen/Local Storage/leveldb/MANIFEST-000001
+2025/05/13-12:38:33.896 1c49 Recovering log #3
+2025/05/13-12:38:33.897 1c49 Level-0 table #3: started
+2025/05/13-12:38:33.900 1c49 Level-0 table #3: 70622 bytes OK
+2025/05/13-12:38:33.902 1c49 Delete type=0 #3

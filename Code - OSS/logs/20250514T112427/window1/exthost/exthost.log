@@ -1,0 +1,19 @@
+2025-05-14 11:24:30.334 [info] Extension host with pid 4144 started
+2025-05-14 11:24:30.334 [info] Skipping acquiring lock for /home/stl/.config/Code - OSS/User/workspaceStorage/37f3cd51e57990588e47f71dd075d83d.
+2025-05-14 11:24:30.772 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-14 11:24:30.808 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-05-14 11:24:31.609 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-14 11:24:31.652 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-14 11:24:31.797 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-14 11:24:31.977 [info] Eager extensions activated
+2025-05-14 11:24:31.981 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-14 11:24:32.003 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-14 11:24:32.128 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-14 11:24:32.245 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-14 11:24:32.271 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-05-14 11:24:32.326 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-14 11:24:32.329 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-14 11:24:32.354 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-14 11:29:37.780 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2053
+2025-05-14 11:29:38.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2053
+2025-05-14 11:44:29.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2053

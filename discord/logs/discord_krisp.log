@@ -1,0 +1,8 @@
+[2025-May-11 22:59:58.565 -05:00][ 1202: 1202][info ] Logging initialized
+[2025-May-11 22:59:58.565 -05:00][ 1202: 1202][info ] Initializing krisp SDK...
+[2025-May-11 22:59:58.565 -05:00][ 1202: 1202][info ] DoKrispInitialize
+[2025-May-11 22:59:59.060 -05:00][ 1202: 1202][info ] LoadDynamicKrisp
+[2025-May-11 22:59:59.060 -05:00][ 1202: 1202][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2025-May-11 22:59:59.060 -05:00][ 1202: 1202][info ] Initializing Krisp SDK in PID 1202, addr 0x7c4d03190d10
+[2025-May-11 22:59:59.319 -05:00][ 1202: 1202][info ] Initialized Krisp SDK successfully
+[2025-May-11 22:59:59.319 -05:00][ 1202: 1202][info ] Krisp SDK initialized

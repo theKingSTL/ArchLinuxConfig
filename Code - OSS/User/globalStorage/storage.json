@@ -1,0 +1,120 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "0edd106297975ba55353761f083f54ea5c9f65f11e11ce921c92e60d3f5f59d0",
+    "telemetry.devDeviceId": "61fea810-1632-4ff4-8dc9-e8bffb31a5d8\n",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/stl/.config"
+            },
+            {
+                "folderUri": "file:///usr/share/sddm/themes/catppuccin-mocha"
+            },
+            {
+                "folderUri": "file:///usr/share/sddm/themes"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/stl/.config": "__default__profile__",
+            "file:///": "__default__profile__",
+            "file:///usr/share/sddm/themes/catppuccin-mocha": "__default__profile__",
+            "file:///home/stl": "__default__profile__",
+            "file:///usr/share/sddm/themes": "__default__profile__",
+            "file:///home/stl/.config/assets/wlogout/assets": "__default__profile__",
+            "file:///home/stl/simple-hyprland/configs/wlogout": "__default__profile__",
+            "file:///home/stl/.config/wlogout": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/stl/.config",
+            "backupPath": "/home/stl/.config/Code - OSS/Backups/cf6f6c0a21f2b17208c90bded05027bc",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 1042,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "37f3cd51e57990588e47f71dd075d83d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "de045d141a8b035fd6afde5a0c3a97e9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "11dfb01cdb1469e982e6af9c9c802c2c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "809972e1104e00ddb8c5d91f72991753": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "00edbe7b35023f9acfc4f710a726fa7f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e3a129eeb551978415d4bb20ed00a24b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "03915d25b4809d357950dc18995af882": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "bc89dd437cccf2da1736cb6caab3d456": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
